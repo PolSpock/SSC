@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BBD033</color>
+    <color name="colorPrimaryDark">#29512E</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorText">#FFFFFF</color>
+    <color name="howToColor">#BBD033</color>
+    <color name="blackColor">#000000</color>
+    <color name="facebookColor">#4C4F82</color>
+</resources>
